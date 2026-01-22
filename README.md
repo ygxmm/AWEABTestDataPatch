@@ -65,6 +65,7 @@
 | `AWENotesDotProgress` | 部分多图图文新版滑条样式 | `true`/`false` 控制 |
 | `AWESLIDES_SCALE_EXPERIMENT` | 图文开启缩略图样式 | **删除此键** 以禁止图文缩略图 |
 | `background_play_small_window_config` | 官方默认设为`1`开启，会将播放设置中的专注模式后台小窗播放（此时支持图文小窗播放）替换为后台小窗播放。设为`0`禁用后，同时需要确保`官方设置-通用-播放设置-仅从专注模式下退出时生效`开启才会起作用，这样就实现了同时支持后台播放声音（直接退出）和后台小窗播放（专注模式下退出）两种逻辑 | `1`/`0` 控制 |
+| `comment_support_provide_audio_comments` | 开启语音评论 | `1`/`0` 控制(37.5.0及以上) |
 | `c2_feed_switch_preview_entry` | 单击首页显示单双列切换视图 |  `1`/`0` 控制 |
 | `c2_recommend_feed_entry_style` | 首页双列按钮 | `enable=0` 关闭 | 
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |

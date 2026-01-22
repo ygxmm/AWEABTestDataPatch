@@ -18,6 +18,7 @@
         },
         "AWENotesDotProgress": true,
         "background_play_small_window_config": 0,
+        "comment_support_provide_audio_comments": 1,
         "c2_feed_switch_preview_entry": 0,
         "c2_recommend_feed_entry_style": {
             "enable": 0,
