@@ -18,6 +18,7 @@
         },
         "AWENotesDotProgress": true,
         "background_play_small_window_config": 0,
+        "clean_mode_style_exp": 2,
         "comment_support_provide_audio_comments": 1,
         "c2_feed_switch_preview_entry": 0,
         "c2_recommend_feed_entry_style": {
@@ -184,10 +185,19 @@
             "exit_guide_delay": 5,
             "exp_version": "20240521"
         },
+        "pinch_video_bottom_bar_opt": {
+            "duration": 60,
+            "enable": 1
+        },
         "pinch_video_scale_follow_opt": 1,
         "profile_like_status_shown_on_cover": 1,
         "profile_post_hot_sort_exposed": 1,
         "recommend_to_friend_tag_view_refactor": true,
-        "share_strengthen_panel_type": ""
+        "reverse_pinch_bar_image_full_page": false,
+        "share_strengthen_panel_type": "",
+        "vision_search_pure_mode_image_album_config": {
+            "has_vision_search": true,
+            "popover_animation": false
+        }
     }
 }
