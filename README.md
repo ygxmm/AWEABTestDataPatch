@@ -1,11 +1,5 @@
 # AWEABTestDataPatch
 
-## **暂停维护中，接受PR**
-
-> [!NOTE]
->  **说明** | 2025.08.04  
->  下半年事务繁忙，暂缓维护，敬请谅解
-
 🎯 **用于修改抖音热更新文件的 JSON 数据补丁，作用于覆写模式**
 
 ---
@@ -68,6 +62,7 @@
 | `comment_support_provide_audio_comments` | 开启语音评论 | `1`/`0` 控制(37.5.0及以上) |
 | `c2_feed_switch_preview_entry` | 单击首页显示单双列切换视图 |  `1`/`0` 控制 |
 | `c2_recommend_feed_entry_style` | 首页双列按钮 | `enable=0` 关闭 | 
+| `detail_inner_btn_clean` | 用户主页视频播界面清屏按钮 | `["显示界面1","显示界面2",...]` |
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
 | `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | `true`/`false` 控制 |
@@ -90,12 +85,16 @@
 | `long_press_play_control_modal_quick_items` | 新版长按菜单左右按钮显示的功能 | 设置为特定值开启对应功能 |
 | `long_press_play_control_modal_switch` | 新版长按菜单 | `1`/`0` 控制 |
 | `pinch_long_press_hot_area_opt` | 清屏状态下等价于长按菜单的按钮 | `1`/`0` 控制 |
+| `pinch_more_button` | 清屏状态下视频显示更多按钮 | 为`2`时不显示 |
+| `pinch_progress_pos_opt` | 清屏状态下进度条位置 | `1`/`0` 控制，开启首页全屏后清屏状态下进度条位置异常可以考虑调整此参数 |
+| `pinch_progress_show_opt` | 清屏状态下时长较短的视频不显示进度条 | `1`/`0` 控制 |
 | `pinch_to_c2_feed` | 双指缩小画面切换双列视图 | `enable=false` 关闭 |
 | `pinch_video_scale_follow_opt` | 清屏状态下双指缩放画面 | `1`/`0` 控制 |
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1`/`0` 控制 |
 | `profile_post_hot_sort_exposed` | 主页新版最新最热标签 | 用户主页只有作品时显示, `1`/`0` 控制 |
 | `recommend_to_friend_tag_view_refactor` | 推荐给朋友标签右侧编辑按钮 | `true`/`false` 控制 |
 | `share_strengthen_panel_type` | 新版分享面板 | `""`开启 |
+| `vision_search_pure_mode_image_album_config` | 清屏状态下图文识图按钮 | `has_vision_search=true` 显示 |
 | **`*`** | **更多功能** | **待发掘，欢迎提出 / PR ！❤️热更新的发现有赖于不同人下发的不同配置❤️** |
 
 ---

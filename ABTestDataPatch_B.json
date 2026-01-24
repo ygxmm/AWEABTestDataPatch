@@ -38,6 +38,7 @@
                 "text": "返回单列"
             }
         },
+        "detail_inner_btn_clean": null,
         "detail_page_panel_config": {
             "enable": 0,
             "panel_hide_related_video": 0,
@@ -175,6 +176,9 @@
         ],
         "long_press_play_control_modal_switch": 1,
         "pinch_long_press_hot_area_opt": 1,
+        "pinch_more_button": 3,
+        "pinch_progress_pos_opt": 0,
+        "pinch_progress_show_opt": 1,
         "pinch_to_c2_feed": {
             "enable": false,
             "exit_guide_delay": 5,
