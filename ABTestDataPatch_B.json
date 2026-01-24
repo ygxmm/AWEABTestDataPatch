@@ -148,6 +148,10 @@
                 "homepage_tablive": {}
             }
         },
+        "im_media_detail_page_opt": {
+            "enable": true,
+            "show_quote_btn": true
+        },
         "im_share_panel_arrangement_strategy": null,
         "im_support_user_bubble": "-1",
         "interaction_element_dd_config": null,

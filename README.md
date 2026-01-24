@@ -75,6 +75,7 @@
 | `general_search_layout_type` | 搜索页搜索结果切换双列显示按钮 | `2` 显示 |
 | `homepage_long_press_setting` `homepage_remote_ab_config` | 首页单击/双击/长按行为配置 | 设置为 `false` 关闭相关功能 |
 | `hp_left_slide_to_user_page_config` | 关注、直播等页面边缘左滑进入用户主页 | `edge_slide_width` 控制边缘触发距离，官方默认值 `76` |
+| `im_media_detail_page_opt` | 新版朋友分享视频界面 | `enable=false` 关闭后可以解决高版本朋友分享视频全屏失效的问题 |
 | `im_share_panel_arrangement_strategy` | 新版分享面板失效问题 | **删除此键** 可解决 |
 | `im_support_user_bubble` | 聊天支持更换气泡 | `"-1"` 开启 |
 | `interaction_element_dd_config` | 自定义图文图标大小失效问题 | **删除此键** 可解决 |
