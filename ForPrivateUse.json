@@ -90,6 +90,7 @@
                 }
             }
         },
+        "dplayer_feed_support_interaction": 0,
         "edge_fast_speed_toast_style": true,
         "familiar_recommend_entrance_lp_panel_pos": 1,
         "familiar_recommend_icon_when_switch_share_and_recommend": {

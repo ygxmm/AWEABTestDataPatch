@@ -66,6 +66,7 @@
 | `detail_inner_btn_clean` | 用户主页视频播界面清屏按钮 | `["显示界面1","显示界面2",...]` |
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
+| `dplayer_feed_support_interaction` | 播放进度条显示异常 | **设为0** 可解决 |
 | `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | `true`/`false` 控制 |
 | `familiar_recommend_entrance_lp_panel_pos` | 新版长按菜单的推荐入口显示 | `1`/`0` 控制 |
 | `familiar_recommend_icon_when_switch_share_and_recommend` | 加载推荐和取消推荐图标 | 需要填入完整链接 |
