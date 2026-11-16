@@ -16,7 +16,7 @@
 | 文件名                      | 描述                               |
 | ------------------------ | -------------------------------- |
 | `ABTestDataPatch_A.json` | **稳定版覆写**：仅开启基础优化项，关闭热更新推送的新功能，稳定性优先，适合大多数用户 |
-| `ABTestDataPatch_B.json` | **尝鲜版覆写**：开启新功能和交互，适合追求新体验的用户  |
+| `ABTestDataPatch_B.json` | **尝鲜版覆写**：开启新功能和交互（含手动 HDR 开关），适合追求新体验的用户  |
 | `ForPrivateUse.json`     | **自定义覆写**：自用版本，有个人偏好配置   |
 
 
@@ -68,6 +68,7 @@
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
 | `dplayer_feed_support_interaction` | 播放进度条显示异常 | **设为0** 可解决 |
 | `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | `true`/`false` 控制 |
+| `enable_hdr_manual_settings` | 设置里显示 HDR 播放开关，由用户手动开关 HDR（B 版新增） | `1`/`0` 控制；为 `1` 时开关出现且 HDR 默认关闭 |
 | `familiar_recommend_entrance_lp_panel_pos` | 新版长按菜单的推荐入口显示 | `1`/`0` 控制 |
 | `familiar_recommend_icon_when_switch_share_and_recommend` | 加载推荐和取消推荐图标 | 需要填入完整链接 |
 | `favorite_list_style` | 收藏列表切换样式按钮 | `1`/`0` 控制 |

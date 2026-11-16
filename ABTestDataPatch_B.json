@@ -92,6 +92,7 @@
         },
         "dplayer_feed_support_interaction": 0,
         "edge_fast_speed_toast_style": true,
+        "enable_hdr_manual_settings": 1,
         "familiar_recommend_entrance_lp_panel_pos": 1,
         "familiar_recommend_icon_when_switch_share_and_recommend": {
             "cancel_rec_in_lp_and_sp": [
