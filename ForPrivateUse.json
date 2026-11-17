@@ -18,26 +18,6 @@
         },
         "AWENotesDotProgress": true,
         "background_play_small_window_config": 0,
-        "c2_feed_switch_preview_entry": 1,
-        "c2_feed_switch_preview_entry_impact_enable": 1,
-        "c2_recommend_feed_entry_style": {
-            "enable": 1,
-            "new_entry": 1,
-            "entry_detail": {
-                "background": "#38000000",
-                "radius": 10,
-                "icon": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/entry_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-                "type": 0,
-                "text": "双列"
-            },
-            "switch_button": 1,
-            "button_detail": {
-                "disable_fold": "1",
-                "icon_mid": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/mid_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-                "icon_right": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/right_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-                "text": "返回单列"
-            }
-        },
         "clean_mode_style_exp": 2,
         "comment_support_provide_audio_comments": 1,
         "detail_inner_btn_clean": null,
@@ -57,39 +37,6 @@
             "return_to_feed_in_feed_bottom": false,
             "feed_page_entrance": 0,
             "not_relative_entrance": 1
-        },
-        "double_column_recommend_exp": {
-            "entrance": 3,
-            "enable_hide_timestamp_in_hompage_square": 1,
-            "enable_reuse_cover_from_2c": true,
-            "feed_double_column_preload_limit_count": 9,
-            "guide_max_count": 99,
-            "quick_switch_text": "切换模式",
-            "show_photos_icon": true,
-            "show_video_icon": false,
-            "show_video_time": false,
-            "title_row_number": 2,
-            "transiton_optimization": 1,
-            "welcome_card_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_dark.png",
-            "welcome_card_url_light": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_light.png",
-            "dislike_longpress_panel_config": {
-                "texts": {
-                    "btn_advertising": "疑似广告",
-                    "btn_sex": "色情低俗",
-                    "btn_similar": "相似过多",
-                    "btn_uncomfortable": "内容不适",
-                    "btn_live_fake": "封面非本人",
-                    "btn_live_awful": "内容质量差",
-                    "btn_category": "该内容",
-                    "btn_liver": "该主播",
-                    "title_feedback": "‼️ 我要反馈️",
-                    "btn_author": "该作者",
-                    "btn_live_content": "该直播",
-                    "btn_live_cover": "封面令人不适",
-                    "title_dislike": "💔 我不喜欢",
-                    "btn_live_title": "标题令人不适"
-                }
-            }
         },
         "dplayer_feed_support_interaction": 0,
         "edge_fast_speed_toast_style": false,
