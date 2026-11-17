@@ -1,209 +1,209 @@
 {
-  "data": {
-    "AWEAlbumOverallCellLevelShrink": false,
-    "AWEDetailCommentInputShow": true,
-    "AWEFeedAlbumShortDescShowExpansion": false,
-    "AWEFullPageEnableRelatedRecommend": {
-      "enable": false,
-      "scene": [
-        "homepage_hot",
-        "general_search"
-      ],
-      "tab_title": "相关推荐"
-    },
-    "AWEMusicDetailRelatedEnable": {
-      "cover_ui_type": 2,
-      "enable": false
-    },
-    "AWENotesDotProgress": true,
-    "background_play_small_window_config": 0,
-    "c2_feed_switch_preview_entry": 0,
-    "c2_recommend_feed_entry_style": {
-      "button_detail": {
-        "disable_fold": "1",
-        "icon_mid": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/mid_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-        "icon_right": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/right_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-        "text": "返回单列"
-      },
-      "enable": 0,
-      "entry_detail": {
-        "background": "#38000000",
-        "icon": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/entry_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
-        "radius": 10,
-        "text": "双列",
-        "type": 0
-      },
-      "new_entry": 1,
-      "switch_button": 1
-    },
-    "clean_mode_style_exp": 2,
-    "comment_support_provide_audio_comments": 1,
-    "detail_inner_btn_clean": null,
-    "detail_page_panel_config": {
-      "collapse_height": 0.56,
-      "collapse_mode": 0,
-      "default_fullscreen": 0,
-      "enable": 0,
-      "enable_preload": 0,
-      "enlarge_author_area": 0,
-      "expand_2_fullscreen": 1,
-      "feed_page_entrance": 0,
-      "not_relative_entrance": 1,
-      "panel_hide_related_commend": 1,
-      "panel_hide_related_video": 0,
-      "return_to_feed_in_feed_bottom": false,
-      "single_column": 1,
-      "single_column_jump_inner": 0,
-      "video_translation": 1
-    },
-    "double_column_recommend_exp": {
-      "dislike_longpress_panel_config": {
-        "texts": {
-          "btn_advertising": "疑似广告",
-          "btn_author": "该作者",
-          "btn_category": "该内容",
-          "btn_live_awful": "内容质量差",
-          "btn_live_content": "该直播",
-          "btn_live_cover": "封面令人不适",
-          "btn_live_fake": "封面非本人",
-          "btn_live_title": "标题令人不适",
-          "btn_liver": "该主播",
-          "btn_sex": "色情低俗",
-          "btn_similar": "相似过多",
-          "btn_uncomfortable": "内容不适",
-          "title_dislike": "💔 我不喜欢",
-          "title_feedback": "‼️ 我要反馈️"
+    "mode": "DYYY_MODE_PATCH",
+    "data": {
+        "AWEAlbumOverallCellLevelShrink": false,
+        "AWEDetailCommentInputShow": true,
+        "AWEFeedAlbumShortDescShowExpansion": false,
+        "AWEFullPageEnableRelatedRecommend": {
+            "enable": false,
+            "scene": [
+                "homepage_hot",
+                "general_search"
+            ],
+            "tab_title": "相关推荐"
+        },
+        "AWEMusicDetailRelatedEnable": {
+            "cover_ui_type": 2,
+            "enable": false
+        },
+        "AWENotesDotProgress": true,
+        "background_play_small_window_config": 0,
+        "c2_feed_switch_preview_entry": 0,
+        "c2_recommend_feed_entry_style": {
+            "button_detail": {
+                "disable_fold": "1",
+                "icon_mid": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/mid_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+                "icon_right": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/right_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+                "text": "返回单列"
+            },
+            "enable": 0,
+            "entry_detail": {
+                "background": "#38000000",
+                "icon": "http://p3-main-activity.byteimg.com/tos-cn-i-3a9ajr9h4x/entry_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+                "radius": 10,
+                "text": "双列",
+                "type": 0
+            },
+            "new_entry": 1,
+            "switch_button": 1
+        },
+        "clean_mode_style_exp": 2,
+        "comment_support_provide_audio_comments": 1,
+        "detail_inner_btn_clean": null,
+        "detail_page_panel_config": {
+            "collapse_height": 0.56,
+            "collapse_mode": 0,
+            "default_fullscreen": 0,
+            "enable": 0,
+            "enable_preload": 0,
+            "enlarge_author_area": 0,
+            "expand_2_fullscreen": 1,
+            "feed_page_entrance": 0,
+            "not_relative_entrance": 1,
+            "panel_hide_related_commend": 1,
+            "panel_hide_related_video": 0,
+            "return_to_feed_in_feed_bottom": false,
+            "single_column": 1,
+            "single_column_jump_inner": 0,
+            "video_translation": 1
+        },
+        "double_column_recommend_exp": {
+            "dislike_longpress_panel_config": {
+                "texts": {
+                    "btn_advertising": "疑似广告",
+                    "btn_author": "该作者",
+                    "btn_category": "该内容",
+                    "btn_live_awful": "内容质量差",
+                    "btn_live_content": "该直播",
+                    "btn_live_cover": "封面令人不适",
+                    "btn_live_fake": "封面非本人",
+                    "btn_live_title": "标题令人不适",
+                    "btn_liver": "该主播",
+                    "btn_sex": "色情低俗",
+                    "btn_similar": "相似过多",
+                    "btn_uncomfortable": "内容不适",
+                    "title_dislike": "💔 我不喜欢",
+                    "title_feedback": "‼️ 我要反馈️"
+                }
+            },
+            "enable_hide_timestamp_in_hompage_square": 1,
+            "enable_reuse_cover_from_2c": true,
+            "entrance": 3,
+            "feed_double_column_preload_limit_count": 9,
+            "guide_max_count": 0,
+            "quick_switch_text": "切换模式",
+            "show_photos_icon": true,
+            "show_video_icon": false,
+            "show_video_time": false,
+            "title_row_number": 2,
+            "transiton_optimization": 1,
+            "welcome_card_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_dark.png",
+            "welcome_card_url_light": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_light.png"
+        },
+        "dplayer_feed_support_interaction": 0,
+        "edge_fast_speed_toast_style": false,
+        "enable_hdr_manual_settings": 1,
+        "familiar_recommend_entrance_lp_panel_pos": 1,
+        "familiar_recommend_icon_when_switch_share_and_recommend": {
+            "cancel_rec_in_lp_and_sp": [
+                "https://p3.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
+                "https://p6.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
+                "https://p9.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image"
+            ],
+            "rec_in_lp_and_sp": [
+                "https://p3.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image",
+                "https://p6.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image",
+                "https://p9.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image"
+            ]
+        },
+        "favorite_list_style": 1,
+        "feed_desc_lines_count": 5,
+        "feed_related_recommend_stable_entrance": null,
+        "general_search_layout_type": 2,
+        "homepage_long_press_setting": {
+            "bubble_id": "home_longpress_finishsetting_bubble",
+            "click_direct_switch_c2": 1,
+            "default_setting": "direct_switch_c2",
+            "enable": 0,
+            "enable_setting_panel": 1,
+            "setting_array": [
+                "refresh",
+                "preview_mode",
+                "direct_switch_c2"
+            ],
+            "title_dict": {
+                "direct_switch_c2": "切换单双列",
+                "preview_mode": "选择视图",
+                "refresh": "刷新内容"
+            },
+            "version": 20250311
+        },
+        "homepage_remote_ab_config": {
+            "homepage_remote_click_show_enable": false,
+            "homepage_remote_double_click_show_enable": false,
+            "homepage_remote_long_click_show_enable": false,
+            "homepage_remote_mode_style": 2,
+            "homepage_remote_panel_auto_dismiss": false
+        },
+        "hp_left_slide_to_user_page_config": {
+            "edge_slide_width": 76,
+            "guide_config": {
+                "trigger_play_progress": 70
+            },
+            "main_tab_slide_width": 99999,
+            "support_tabs": {
+                "homepage_familiar": {},
+                "homepage_follow": {},
+                "homepage_hot": {},
+                "homepage_nearby": {},
+                "homepage_pad_hot": {},
+                "homepage_tablive": {}
+            }
+        },
+        "im_media_detail_page_opt": {
+            "enable": false,
+            "show_quote_btn": true
+        },
+        "im_share_panel_arrangement_strategy": null,
+        "im_support_user_bubble": "-1",
+        "interaction_element_dd_config": null,
+        "long_press_fast_speed_enabled_scene": true,
+        "long_press_lock_speed_config": {
+            "distance": 100,
+            "enable": 1,
+            "show_capsule": 0
+        },
+        "long_press_modal_show_hint_label": true,
+        "long_press_panel_refactor": true,
+        "long_press_panel_speed_optimize": {
+            "long_press_new_speed_array": [
+                0.5,
+                0.75,
+                1,
+                1.25,
+                1.5,
+                2,
+                3
+            ],
+            "long_press_new_speed_enable": 1
+        },
+        "long_press_play_control_modal_quick_items": [
+            "dislike",
+            "familiar_recommend"
+        ],
+        "long_press_play_control_modal_switch": 1,
+        "pinch_long_press_hot_area_opt": 1,
+        "pinch_more_button": 3,
+        "pinch_progress_pos_opt": 0,
+        "pinch_progress_show_opt": 1,
+        "pinch_to_c2_feed": {
+            "enable": false,
+            "exit_guide_delay": 5,
+            "exp_version": "20240521"
+        },
+        "pinch_video_bottom_bar_opt": {
+            "duration": 60,
+            "enable": 1
+        },
+        "pinch_video_scale_follow_opt": 1,
+        "profile_like_status_shown_on_cover": 1,
+        "profile_post_hot_sort_exposed": 1,
+        "recommend_to_friend_tag_view_refactor": true,
+        "reverse_pinch_bar_image_full_page": false,
+        "share_strengthen_panel_type": "",
+        "vision_search_pure_mode_image_album_config": {
+            "has_vision_search": true,
+            "popover_animation": false
         }
-      },
-      "enable_hide_timestamp_in_hompage_square": 1,
-      "enable_reuse_cover_from_2c": true,
-      "entrance": 3,
-      "feed_double_column_preload_limit_count": 9,
-      "guide_max_count": 0,
-      "quick_switch_text": "切换模式",
-      "show_photos_icon": true,
-      "show_video_icon": false,
-      "show_video_time": false,
-      "title_row_number": 2,
-      "transiton_optimization": 1,
-      "welcome_card_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_dark.png",
-      "welcome_card_url_light": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lrbkeh7bpqnuhojnuhpq/welcome_card_light.png"
-    },
-    "dplayer_feed_support_interaction": 0,
-    "edge_fast_speed_toast_style": false,
-    "enable_hdr_manual_settings": 1,
-    "familiar_recommend_entrance_lp_panel_pos": 1,
-    "familiar_recommend_icon_when_switch_share_and_recommend": {
-      "cancel_rec_in_lp_and_sp": [
-        "https://p3.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
-        "https://p6.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
-        "https://p9.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image"
-      ],
-      "rec_in_lp_and_sp": [
-        "https://p3.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image",
-        "https://p6.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image",
-        "https://p9.douyinpic.com/aweme-client-static-resource/ic_rec_thumbup_green_new.png~tplv-obj.image"
-      ]
-    },
-    "favorite_list_style": 1,
-    "feed_desc_lines_count": 5,
-    "feed_related_recommend_stable_entrance": null,
-    "general_search_layout_type": 2,
-    "homepage_long_press_setting": {
-      "bubble_id": "home_longpress_finishsetting_bubble",
-      "click_direct_switch_c2": 1,
-      "default_setting": "direct_switch_c2",
-      "enable": 0,
-      "enable_setting_panel": 1,
-      "setting_array": [
-        "refresh",
-        "preview_mode",
-        "direct_switch_c2"
-      ],
-      "title_dict": {
-        "direct_switch_c2": "切换单双列",
-        "preview_mode": "选择视图",
-        "refresh": "刷新内容"
-      },
-      "version": 20250311
-    },
-    "homepage_remote_ab_config": {
-      "homepage_remote_click_show_enable": false,
-      "homepage_remote_double_click_show_enable": false,
-      "homepage_remote_long_click_show_enable": false,
-      "homepage_remote_mode_style": 2,
-      "homepage_remote_panel_auto_dismiss": false
-    },
-    "hp_left_slide_to_user_page_config": {
-      "edge_slide_width": 76,
-      "guide_config": {
-        "trigger_play_progress": 70
-      },
-      "main_tab_slide_width": 99999,
-      "support_tabs": {
-        "homepage_familiar": {},
-        "homepage_follow": {},
-        "homepage_hot": {},
-        "homepage_nearby": {},
-        "homepage_pad_hot": {},
-        "homepage_tablive": {}
-      }
-    },
-    "im_media_detail_page_opt": {
-      "enable": false,
-      "show_quote_btn": true
-    },
-    "im_share_panel_arrangement_strategy": null,
-    "im_support_user_bubble": "-1",
-    "interaction_element_dd_config": null,
-    "long_press_fast_speed_enabled_scene": true,
-    "long_press_lock_speed_config": {
-      "distance": 100,
-      "enable": 1,
-      "show_capsule": 0
-    },
-    "long_press_modal_show_hint_label": true,
-    "long_press_panel_refactor": true,
-    "long_press_panel_speed_optimize": {
-      "long_press_new_speed_array": [
-        0.5,
-        0.75,
-        1,
-        1.25,
-        1.5,
-        2,
-        3
-      ],
-      "long_press_new_speed_enable": 1
-    },
-    "long_press_play_control_modal_quick_items": [
-      "dislike",
-      "familiar_recommend"
-    ],
-    "long_press_play_control_modal_switch": 1,
-    "pinch_long_press_hot_area_opt": 1,
-    "pinch_more_button": 3,
-    "pinch_progress_pos_opt": 0,
-    "pinch_progress_show_opt": 1,
-    "pinch_to_c2_feed": {
-      "enable": false,
-      "exit_guide_delay": 5,
-      "exp_version": "20240521"
-    },
-    "pinch_video_bottom_bar_opt": {
-      "duration": 60,
-      "enable": 1
-    },
-    "pinch_video_scale_follow_opt": 1,
-    "profile_like_status_shown_on_cover": 1,
-    "profile_post_hot_sort_exposed": 1,
-    "recommend_to_friend_tag_view_refactor": true,
-    "reverse_pinch_bar_image_full_page": false,
-    "share_strengthen_panel_type": "",
-    "vision_search_pure_mode_image_album_config": {
-      "has_vision_search": true,
-      "popover_animation": false
     }
-  },
-  "mode": "DYYY_MODE_PATCH"
 }
