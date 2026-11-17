@@ -156,7 +156,7 @@
         "im_share_panel_arrangement_strategy": null,
         "im_support_user_bubble": "-1",
         "interaction_element_dd_config": null,
-        "long_press_fast_speed_enabled_scene": true,
+        "long_press_fast_speed_enabled_scene": false,
         "long_press_lock_speed_config": {
             "enable": 1,
             "distance": 100,
@@ -176,11 +176,7 @@
             ],
             "long_press_new_speed_enable": 1
         },
-        "long_press_play_control_modal_quick_items": [
-            "familiar_recommend",
-            "dislike"
-        ],
-        "long_press_play_control_modal_switch": 1,
+        "long_press_play_control_modal_switch": 0,
         "pinch_long_press_hot_area_opt": 1,
         "pinch_more_button": 3,
         "pinch_progress_pos_opt": 0,
@@ -203,6 +199,7 @@
         "vision_search_pure_mode_image_album_config": {
             "has_vision_search": true,
             "popover_animation": false
-        }
+        },
+        "enable_hdr_manual_settings": 1
     }
 }
