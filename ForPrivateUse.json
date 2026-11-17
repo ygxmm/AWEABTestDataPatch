@@ -63,7 +63,7 @@
             "enable_hide_timestamp_in_hompage_square": 1,
             "enable_reuse_cover_from_2c": true,
             "feed_double_column_preload_limit_count": 9,
-            "guide_max_count": 0,
+            "guide_max_count": 99,
             "quick_switch_text": "切换模式",
             "show_photos_icon": true,
             "show_video_icon": false,
