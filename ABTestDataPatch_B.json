@@ -58,24 +58,6 @@
         "feed_desc_lines_count": 5,
         "feed_related_recommend_stable_entrance": null,
         "general_search_layout_type": 2,
-        "homepage_long_press_setting": {
-            "enable": 0,
-            "bubble_id": "home_longpress_finishsetting_bubble",
-            "click_direct_switch_c2": 1,
-            "default_setting": "direct_switch_c2",
-            "enable_setting_panel": 1,
-            "setting_array": [
-                "refresh",
-                "preview_mode",
-                "direct_switch_c2"
-            ],
-            "title_dict": {
-                "refresh": "刷新内容",
-                "preview_mode": "选择视图",
-                "direct_switch_c2": "切换单双列"
-            },
-            "version": 20250311
-        },
         "homepage_remote_ab_config": {
             "homepage_remote_click_show_enable": false,
             "homepage_remote_mode_style": 2,
