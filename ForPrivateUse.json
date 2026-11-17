@@ -156,7 +156,7 @@
         "im_share_panel_arrangement_strategy": null,
         "im_support_user_bubble": "-1",
         "interaction_element_dd_config": null,
-        "long_press_fast_speed_enabled_scene": true,
+        "long_press_fast_speed_enabled_scene": false,
         "long_press_lock_speed_config": {
             "enable": 1,
             "distance": 100,
@@ -203,21 +203,6 @@
         "vision_search_pure_mode_image_album_config": {
             "has_vision_search": true,
             "popover_animation": false
-        },
-        "feed_long_press_speed_hot_area_config": {
-            "quadratic_config": {
-                "center": 0.7,
-                "peak": 0.05,
-                "spread": 0.6
-            },
-            "enable": 0,
-            "guide_limits": {
-                "static_lifetime": 2,
-                "trigger_lifetime": 6,
-                "static_interval_days": 5,
-                "trigger_24h": 3
-            },
-            "right_hot_area_scale": 1.2
         }
     }
 }
